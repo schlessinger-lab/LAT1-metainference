@@ -43,7 +43,7 @@ The scripts perform 4 tasks:
  
  tqdm
  
- * Highly recommended to install MDAnalysis and ProLif in an anaconda environemt. See the install instructions for thos programs.
+ * Highly recommended to install MDAnalysis and ProLif in an anaconda environemt. See the install instructions for those programs.
 
 
   
