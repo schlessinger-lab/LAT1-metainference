@@ -1,6 +1,6 @@
 # LAT1-metainference
 
-This git contains scricpts and files relating to analysis of metainference molecular dynamics(MD) simulations performed on recently published outward-occluded LAT1 cryo-EM structure. (PDB: 7DSL).
+This git contains scripts and files relating to analysis of metainference molecular dynamics(MD) simulations performed on recently published outward-occluded LAT1 cryo-EM structure. (PDB: 7DSL).
 
 For detailed gude on how to set-up metainference simulations, GROMACS topology and input files as well as PLUMED input files, please visit: https://www.plumed-nest.org/eggs/22/018/
 
